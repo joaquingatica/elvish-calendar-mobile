@@ -1,2 +1,1 @@
-elvish-calendar-android
-=======================
+# Elvish Calendar for Android
