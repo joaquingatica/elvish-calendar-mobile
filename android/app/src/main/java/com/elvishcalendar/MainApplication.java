@@ -1,4 +1,4 @@
-package com.pepperoniapptemplate;
+package com.elvishcalendar;
 
 import android.app.Application;
 
